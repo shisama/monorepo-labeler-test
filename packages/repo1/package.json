@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "hello": "cowsay 'hello'"
+  },
   "dependencies": {
     "cowsay": "^1.4.0"
   }
