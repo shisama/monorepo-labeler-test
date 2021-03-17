@@ -1,0 +1,11 @@
+{
+  "name": "monorepo-labeler-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/shisama/monorepo-labeler-test.git",
+  "author": "shisama <shisama07@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
