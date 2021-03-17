@@ -1,3 +1,6 @@
-repo1: packages/repo1/**/*
-repo2: pacakges/repo2/**/*
-repo2: pacakges/repo3/**/*
+repo1: 
+  - packages/repo1/**/*
+repo2:
+  - packages/repo2/**/*
+repo3:
+  - packages/repo3/**/*
